@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151379917234",
+    "project_id": "davaleba-2-jgufi-1",
+    "storage_bucket": "davaleba-2-jgufi-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151379917234:android:a2ba8dd3d4ef6b534a8cab",
+        "android_client_info": {
+          "package_name": "com.example.davaleba2jgufi12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151379917234-h69evfc9ep4dm8sqvasas5ngtpvg692c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKrYwYEy8ecutnvUXI6JDxRfhQ4-G6HIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151379917234-h69evfc9ep4dm8sqvasas5ngtpvg692c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
